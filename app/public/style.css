@@ -1,0 +1,35 @@
+.jumbotron {
+  background-color: transparent;
+}
+
+body {
+    background: url("./images/people.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+  }
+h1 {
+-webkit-text-fill-color: #3b5998; 
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #3b5998;
+ }
+ h2 {
+-webkit-text-fill-color: white; 
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #3b5998;
+ }  
+ }
+.panel {
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+#imagepreview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+  font-size: 24px;
+  font-style: italic;
+  font-variant: small-caps;
+}
